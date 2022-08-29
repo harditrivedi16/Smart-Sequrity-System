@@ -1,1 +1,1 @@
-# Smart-Sequrity-System
+# Smart-Security-System
